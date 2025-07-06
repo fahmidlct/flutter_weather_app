@@ -1,0 +1,45 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IDE related
+.idea/
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Android Studio
+.android/
+local.properties
+
+# Xcode
+DerivedData/
+.idea/
+
+# Flutter iOS builds
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Podfile.lock
+
+# Flutter web related
+web/.dart_tool/
+web/build/
+
+# Windows
+**/windows/.idea/
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDE settings
+.idea/
+
+# User-specific files
+*.swp
+*.swo
