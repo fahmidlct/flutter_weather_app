@@ -1,3 +1,5 @@
 # weather_app
 
-A new Flutter project.
+Latihan bloc
+
+sumber https://www.youtube.com/watch?v=MMq4wkeHkPc
